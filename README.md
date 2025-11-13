@@ -14,7 +14,7 @@
 | :---: | :--- | :--- | :---: |
 | <img src="https://github.com/KamikazEr101.png?size=100" alt="KamikazEr101" width="100"> | **王亦冕** <br/> [@KamikazEr101](https://github.com/KamikazEr101) | AI 应用工程师 \| Java 后端开发者 | [🔗 查看档案](./profile/23009200555.md) |
 | <img src="https://github.com/was000.png?size=100" alt="was000" width="100"> | **王安晟** <br/> [@was000](https://github.com/was000) | AI & 软件开发学习者 \| 游戏开发 & UI 设计探索者 | [🔗 查看档案](./profile/23009200581.md) |
-| <img src="https://github.com/Cakex2005.png?size=100" alt="Cakex2005" width="100"> | **陈凯** <br/> [@Cakex2005](https://github.com/Cakex2005) | 软件工程学习者 \| AI & 游戏开发爱好者 | [🔗 查看档案](./profile/23009201354) |
+| <img src="https://github.com/Cakex2005.png?size=100" alt="Cakex2005" width="100"> | **陈凯** <br/> [@Cakex2005](https://github.com/Cakex2005) | 软件工程学习者 \| AI & 游戏开发爱好者 | [🔗 查看档案](./profile/23009201354.md) |
 
 
 ---
