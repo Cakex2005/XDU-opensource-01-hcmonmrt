@@ -42,6 +42,38 @@
 
 ---
 
+## 🌱 我们的贡献目标项目: Weblate
+
+经过团队的共同调研和深入分析，我们最终选择了 **Weblate** 作为本次课程的贡献目标。
+
+> **项目简介:** Weblate 是一款强大的、基于 Web 的本地化工具，它与版本控制系统（如 Git）紧密集成，旨在简化软件、网站和各类项目的翻译与国际化流程。
+
+-   **项目官网:** [https://weblate.org/zh-hans/](https://weblate.org/zh-hans/)
+-   **GitHub 仓库:** [🔗 WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)
+
+### 📈 项目选型分析与决策 (Project Selection Analysis)
+
+我们选择 Weblate 是基于以下几点关键评估，这充分证明了它是一个活跃、成熟且对新手友好的开源项目：
+
+-   **社区高度活跃**: 项目拥有超过 1300 名贡献者，Issue 响应迅速，代码提交频繁。
+-   **对新手友好**: 提供了大量明确标记为 `good first issue` 的任务，是新手贡献者理想的切入点。
+-   **文档极其完善**: 官方文档覆盖了从多种方式部署到具体使用的方方面面，并提供了清晰的贡献者指南。
+-   **技术栈匹配**: 项目主要使用 `Python`, `Django`, `JavaScript` 等技术，与我们团队的技术背景和兴趣方向较为吻合。
+-   **贡献流程清晰**: 拥有从发现 Issue、声明意向、提交 PR 到代码审查的完整且规范的流程。
+
+### 🔬 项目选型阶段调研分工 (Research Division for Selection)
+
+在项目选型阶段，团队成员进行了如下分工，共同完成了对 Weblate 的全面评估：
+
+| 成员 (Member) | 负责调研方向 (Area of Responsibility) | 主要调研成果 (Key Findings) |
+| :--- | :--- | :--- |
+| **王亦冕** <br/> [@KamikazEr101](https://github.com/KamikazEr101) | **开发环境与新人友好度探索** | <ul><li>研究并实践了本地开发环境的配置，成功 **在本地运行开发实例**。</li><li>分析了 Issue 标签系统，特别是 `good first issue` 的数量和质量，确认了项目 **对新贡献者的友好度**。</li></ul> |
+| **王安晟** <br/> [@was000](https://github.com/was000) | **社区活跃度与贡献指南研究** | <ul><li>调研了 Issue 响应速度、代码提交频率，证实了社区的 **高度活跃性**。</li><li>深入研读了贡献文档，梳理出清晰的 **Issue 到 PR 的完整贡献流程**。</li></ul> |
+| **陈凯** <br/> [@Cakex2005](https://github.com/Cakex2005) | **项目宏观评估与技术栈分析** | <ul><li>评估了项目的Star数、贡献者数量、维护年限，确认其 **成熟度与稳定性**。</li><li>分析了 `Python/Django` 等核心技术栈，确认与团队技能的 **高匹配度**。</li></ul>  |
+
+---
+
+
 ## 📂 仓库结构
 ```
 .
